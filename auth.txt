@@ -1,1 +1,1 @@
-{"DeviceId":"cb5645xxxxxxxxxxxxxxxxxxxxxxxxxx","GoogleId":"","FacebookId":"","Token":"eow8z-jGezKBElFoFu0eEJRmDIzQF2y8","Timestamp":1654191401,"Hash":"d964999xxxxxxxxxxxxxxx"}
+{"DeviceId":"32d2cc89be7f470ceb1668e60f7bdbf3","GoogleId":"a_8623604747741258200","FacebookId":"","Token":"HFmPAwMzgiSyrl_jhgCrbfbI78liIFqr","Timestamp":1655313529,"Hash":"2b1c91e2d74ac2f56c380ea79a9bd0343ffcc007"}
